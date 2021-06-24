@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rajeshpachaikani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeshpachaikani" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ajesh-pachaikani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ajesh-pachaikani" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/rajesh-pachaikani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ajesh-pachaikani" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/opencvtutorials" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="opencvtutorials" height="30" width="40" /></a>
 </p>
 
