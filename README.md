@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **rajeshpachaikani@gmail.com**
 
-- ⚡ Fun fact **I think about ⭐stars⭐ a lot**
+- ⚡ Fun fact **I think about ⭐ luminous spheroid of plasma held together by its own gravity ⭐ a lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
