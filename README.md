@@ -3,7 +3,9 @@
 
 - 📫 How to reach me **rajeshpachaikani@gmail.com**
 
-- ⚡ Fun fact **I think about ⭐ luminous spheroid of plasma held together by its own gravity ⭐ a lot**
+- ⚡ Fun fact - **I was part of ⭐ luminous spheroid of plasma held together by its own gravity ⭐ once and you too**
+
+- 🌱 I’m currently learning ![alt text](https://www.rust-lang.org/logos/rust-logo-16x16.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
